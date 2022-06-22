@@ -18,7 +18,7 @@ Facebook Cluster Management: https://engineering.fb.com/data-center-engineering/
 
 - [x] Google Autopilot - Autoscaling: https://dl.acm.org/doi/pdf/10.1145/3342195.3387524
 
-Netflix Workflow Orchestration: https://netflix.github.io/conductor/
+Netflix Workflow Orchestration: https://netflix.github.io/conductor/ , [https://netflixblog.com/netflix-conductor](https://netflixtechblog.com/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40#:~:text=The%20Netflix%20Content%20Platform%20Engineering,running%20processes%20spanning%20several%20days)
 
 Opensource Workflow Management: https://github.com/spotify/luigi
 
