@@ -16,7 +16,7 @@ Netflix Shot based encoding: https://netflixtechblog.com/optimized-shot-based-en
 
 Facebook Cluster Management: https://engineering.fb.com/data-center-engineering/twine/
 
-Google Autopilot - Autoscaling: https://dl.acm.org/doi/pdf/10.1145/3342195.3387524
+- [x] Google Autopilot - Autoscaling: https://dl.acm.org/doi/pdf/10.1145/3342195.3387524
 
 Netflix Workflow Orchestration: https://netflix.github.io/conductor/
 
