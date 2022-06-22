@@ -27,7 +27,7 @@ Meta Hardware Management: https://engineering.fb.com/2020/12/09/data-center-engi
 ## 
 ### Intra-Service Messaging 
  
-What is a message queue: https://www.cloudamqp.com/blog/what-is-message-queuing.html
+- [x] What is a message queue: https://www.cloudamqp.com/blog/what-is-message-queuing.html
 
 AirBnb Idempotency: https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
 
