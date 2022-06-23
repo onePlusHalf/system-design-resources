@@ -31,7 +31,7 @@ Meta Hardware Management: https://engineering.fb.com/2020/12/09/data-center-engi
 
 AirBnb Idempotency: https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
 
-Nginx Service Mesh: https://www.nginx.com/learn/service-mesh/
+- [x] Nginx Service Mesh: https://www.nginx.com/learn/service-mesh/
 
 ## 
 ### Message Queue Antipattern
